@@ -78,7 +78,7 @@ The main objectives of this project are:
 # 🧾 What can you practice with this case study?
 - Python
   - pandas, numpy,matplotlib,seaborn.
-  - Cleaning, check Null values, outliers, check data types.
+  - Cleaning, check Null values, outliers, data types.
   - Running model, Fiting model, Testing model. 
   - Def function.
   
