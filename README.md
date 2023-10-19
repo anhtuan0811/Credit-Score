@@ -64,7 +64,7 @@ First 5 rows
 ---
 ## 🔎  Explore data and test model
 
-### The Process is following - [Code](https://github.com/anhtuan0811/Credit-Score/blob/main/Credit%20Score%20Project%20.ipynb).
+### The Process is following - [Code & Presentation](https://github.com/anhtuan0811/Credit-Score/blob/main/Analyst.md) or [Only Code](https://github.com/anhtuan0811/Credit-Score/blob/main/Credit%20Score%20Project%20.ipynb) 
 
 ### Objective
 
